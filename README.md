@@ -10,6 +10,10 @@ Although bringing your own agentic loop and unified LLM SDK is not required to b
 - [Coding Agent Loop Specification](./coding-agent-loop-spec.md)
 - [Unified LLM Client Specification](./unified-llm-spec.md)
 
+## konco-attractor Extensions
+
+- [Custom Invention Spec](./custom-invention-spec.md) — Documents extensions, discrepancies, and planned work for the konco-attractor implementation
+
 ## Building Attractor
 
 Supply the following prompt to a modern coding agent (Claude Code, Codex, OpenCode, Amp, Cursor, etc):
